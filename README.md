@@ -46,23 +46,32 @@
 
   <br/><br/>
 
-  <!-- Stats Cards with cache busting -->
+  <!-- Stats Cards -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kagam1nonly&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagam1nonly&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+    <a href="https://github.com/kagam1nonly">
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kagam1nonly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kagam1nonly&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+    </a>
   </p>
 
   <!-- Streak Stats -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kagam1nonly&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <a href="https://github.com/kagam1nonly">
+      <img src="https://streak-stats.demolab.com/?user=kagam1nonly&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </a>
+  </p>
+
+  <!-- Activity Graph -->
+  <p align="center">
+    <a href="https://github.com/kagam1nonly">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kagam1nonly&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+    </a>
   </p>
 
   <!-- Snake Contribution Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kagam1nonly/kagam1nonly/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kagam1nonly/kagam1nonly/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kagam1nonly/kagam1nonly/output/github-contribution-grid-snake.svg">
-  </picture>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/kagam1nonly/kagam1nonly/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  </p>
 
   <br/><br/>
 
