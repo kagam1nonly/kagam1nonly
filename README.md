@@ -1,9 +1,11 @@
 <div align="center">
   
   <!-- Typing SVG: Cycles through titles -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&width=435&lines=AI+Engineer;Smart+Contract+Developer;Full+Stack+Innovator;Web3+Builder" alt="Typing SVG" />
-  </a>
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&width=435&lines=AI+Engineer;Smart+Contract+Developer;Full+Stack+Innovator;Web3+Builder" alt="Typing SVG" />
+    </a>
+  </p>
 
   <!-- Intro / Hook -->
   ### Architecting the Future 🚀
