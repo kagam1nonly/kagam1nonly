@@ -57,7 +57,7 @@
   <!-- Streak Stats -->
   <p align="center">
     <a href="https://github.com/kagam1nonly">
-      <img src="https://streak-stats.demolab.com/?user=kagam1nonly&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=kagam1nonly&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </a>
   </p>
 
