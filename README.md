@@ -3,7 +3,7 @@
   <!-- Typing SVG: Cycles through titles -->
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=AI+Engineer;Smart+Contract+Developer;Full+Stack+Innovator;Web3+Builder" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=AI+Engineer;Smart+Contract+Developer;Full+Stack+Innovator;Web3+Builder;Hobbyist+Game+Dev" alt="Typing SVG" />
     </a>
   </p>
 
