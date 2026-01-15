@@ -56,13 +56,6 @@
     </a>
   </p>
 
-  <!-- Streak Stats -->
-  <p align="center">
-    <a href="https://github.com/kagam1nonly">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=kagam1nonly&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </a>
-  </p>
-
   <!-- Activity Graph -->
   <p align="center">
     <a href="https://github.com/kagam1nonly">
