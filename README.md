@@ -38,8 +38,8 @@
 
 ### 🤖 AI WORKFLOW TOOLS
 <!-- AI Engine -->
-<img src="https://img.shields.io/badge/Gemini_1.5-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_3.5-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Antigravity-FF0000?style=for-the-badge&logo=rocket&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 
