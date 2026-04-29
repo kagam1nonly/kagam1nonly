@@ -1,48 +1,55 @@
 <div align="center">
 
 # ⚡ JAMES PIASTRO
-### Full-Stack Engineer • Founder-Centric Builder • AI Specialist
-[Explore My Portfolio → jamespiastro.me](https://jamespiastro.me)
+### Full-Stack Engineer • AI Architect • MVP Specialist
+[ jamespiastro.me ](https://jamespiastro.me)
 
 ---
 
-> **"Turning ambitious ideas into scalable, high-performance digital products."**
+> **"Bridging the gap between complex algorithms and high-conversion user experiences."**
 
-**Solving Problems With:**
-`Java DSA` • `AI Integration` • `Blockchain` • `Creative Game Dev` • `MVP Rapid Prototyping` • `Mobile Apps` 
+**Interests & Expertise:**
+`Java DSA` • `AI-Integrated Web Apps` • `Blockchain & Smart Contracts` • `High-Quality Game Dev` • `Rapid MVP Prototyping` 
 
 ---
 
 ### 🛠️ CORE TECH STACK
-<!-- Primary Development Stack -->
+<!-- Programming and Logic -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-005850?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
 <br/>
 
-### 🤖 AI & DEVELOPMENT WORKFLOW
-<!-- Tools and AI Stack -->
-<img src="https://img.shields.io/badge/Gemini_AI-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_3.5-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+### ☁️ INFRASTRUCTURE & CLOUD
+<!-- Databases and Deployment -->
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+
+<br/>
+
+### 🤖 AI WORKFLOW TOOLS
+<!-- AI Engine -->
+<img src="https://img.shields.io/badge/Gemini_1.5-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_3.5-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Antigravity-FF0000?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 
 ---
 
-### 🤝 Let's Build Your Million-Dollar MVP
-I specialize in taking projects from **0 to 1** with speed and high-quality engineering. Whether it's an AI-driven SaaS or a custom blockchain solution, let’s talk.
+### 🤝 Build Your Next $1M Business
+I don't just build features; I build foundations for businesses. If you're looking for a technical partner to launch a high-quality MVP at startup speed, let’s connect.
 
-📧 **Business Email:** [jamespiastro20@gmail.com](mailto:jamespiastro20@gmail.com)  
-📱 **Telegram:** [@kagam1nonly](https://t.me/kagam1nonly)
+📬 **Contact me via:**  
+[Telegram: @kagam1nonly](https://t.me/kagam1nonly) • [jamespiastro20@gmail.com](mailto:jamespiastro20@gmail.com)
 
 <br/>
 
@@ -50,8 +57,8 @@ I specialize in taking projects from **0 to 1** with speed and high-quality engi
 
 <br/>
 
-<p style="font-family: monospace; color: #DC2626; font-weight: bold;">
-  // STATUS: Always learning new technology 🚀
+<p align="center" style="font-family: monospace; color: #DC2626; font-weight: bold;">
+  // STATUS: ARCHITECTING REAL-TIME AI SYSTEMS
 </p>
 
 </div>
