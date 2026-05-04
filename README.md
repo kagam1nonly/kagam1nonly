@@ -15,7 +15,7 @@
 
 ### 🚀 FEATURED PROJECTS
 **[GoCraftiv.com](https://gocraftiv.com)**
-*A platform dedicated to creative solutions and digital craftsmanship.*
+*GoCraftiv leverages AI to generate tailored professional experience sections, helping users create standout, job ready resumes in minutes*
 
 **[TaskFlow](https://taskflow-kanbanboard.vercel.app)**
 *A streamlined productivity tool designed to manage complex workflows with ease.*
