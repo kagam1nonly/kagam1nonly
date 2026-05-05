@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ JAMES PIASTRO
-### Software Engineer • Hobbyist Game Developer • MVP Specialist
+### Software Engineer • AI Engineer • MVP Specialist
 [ jamespiastro.me ](https://jamespiastro.me)
 
 ---
@@ -9,7 +9,7 @@
 > **"Bridging the gap between robust logic and high-conversion user experiences."**
 
 **Interests & Expertise:**
-`Java DSA` • `Full-Stack Web` • `Game Design (Unity/LWJGL)` • `Rapid MVP Prototyping` • `AI Integration`
+`Java Data Structures & Algorithm` • `Full Stack Web Development` • `Game Development` • `Rapid MVP Prototyping` • `AI Integration`
 
 ---
 
