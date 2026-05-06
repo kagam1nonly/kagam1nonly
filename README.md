@@ -67,7 +67,7 @@ I love turning ideas into functional, scalable products. Whether it's a high-per
 <br/>
 
 <p align="center" style="font-family: monospace; color: #DC2626; font-weight: bold;">
-  // STATUS: BUILDING CUSTOMIZED CRM 
+  // Status: Building Custom CRM
 </p>
 
 </div>
