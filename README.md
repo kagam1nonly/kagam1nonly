@@ -9,7 +9,7 @@
 > **"Bridging the gap between robust logic and high-conversion user experiences."**
 
 **Interests & Expertise:**
-`Java Data Structures & Algorithm` • `Full Stack Web Development` • `Game Development` • `Rapid MVP Prototyping` • `AI Integration`
+`Java Data Structures & Algorithm` • `Full Stack Web Development` • `Game Development` • `Blockchain Web 3` • `AI Integration`
 
 ---
 
@@ -55,7 +55,7 @@
 ---
 
 ### 🤝 Let's Build Something
-I love turning ideas into functional, scalable products. Whether it's a high-performance web app or a unique game experience, I'm always open to discussing new projects.
+I love turning ideas into functional, scalable products. I'm always open to discussing new projects.
 
 📬 **Contact me via:**  
 [Telegram: @kagam1nonly](https://t.me/kagam1nonly) • [jamespiastro20@gmail.com](mailto:jamespiastro20@gmail.com)
