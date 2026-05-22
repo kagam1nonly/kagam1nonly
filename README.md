@@ -54,8 +54,12 @@
 
 ### 📈 GITHUB STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kagam1nonly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagam1nonly&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/kagam1nonly">
+    <img src="https://github-readme-stats.vercel.app/api?username=kagam1nonly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="kagam1nonly's GitHub stats" />
+  </a>
+  <a href="https://github.com/kagam1nonly">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagam1nonly&layout=compact&theme=tokyonight&hide_border=true" alt="kagam1nonly's top languages" />
+  </a>
 </p>
 
 
