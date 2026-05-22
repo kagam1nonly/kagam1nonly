@@ -56,9 +56,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kagam1nonly&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagam1nonly&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
