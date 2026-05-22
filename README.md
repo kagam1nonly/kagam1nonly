@@ -54,11 +54,11 @@
 
 ### 📈 GITHUB STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kagam1nonly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="kagam1nonly's GitHub stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagam1nonly&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="kagam1nonly's top languages" />
+  <img src="https://streak-stats.demolab.com?user=kagam1nonly&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagam1nonly&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
