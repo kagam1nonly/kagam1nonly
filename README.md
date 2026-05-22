@@ -52,6 +52,13 @@
 <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 
+### 📈 GITHUB STATS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kagam1nonly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagam1nonly&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
 ---
 
 ### 🤝 Let's Build Something
