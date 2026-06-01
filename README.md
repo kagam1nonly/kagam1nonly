@@ -6,7 +6,7 @@
 
 ---
 
-> **"Bridging the gap between robust logic and high-conversion user experiences."**
+**"Bridging the gap between robust logic and high-conversion user experiences."**
 
 **Interests & Expertise:**
 `Java Data Structures & Algorithm` • `Full Stack Web Development` • `Game Development` • `Blockchain Web 3` • `AI Integration`
