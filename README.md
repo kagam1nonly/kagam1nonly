@@ -72,7 +72,7 @@ I love turning ideas into functional, scalable products. I'm always open to disc
 <br/>
 
 <p align="center" style="font-family: monospace; color: #DC2626; font-weight: bold;">
-  // Status: Building Custom CRM
+  // Status: Currently Building Custom CRM For Adult Content
 </p>
 
 </div>
