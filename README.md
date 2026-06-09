@@ -16,7 +16,7 @@
 
 ### 🚀 FEATURED PROJECTS
 
-**[Raven CRM] in Development**
+**[Raven CRM (in Development)] **
 Custom CRM platform for creator and agency management built with Next.js, Prisma, PostgreSQL, and AI-assisted workflows.
 
 **[GoCraftiv.com](https://gocraftiv.com)**
@@ -77,8 +77,11 @@ A streamlined productivity tool designed to manage complex workflows with ease.
 ### 📈 GITHUB STATS
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kagam1nonly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="James's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kagam1nonly&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/kagam1nonly?label=Followers&style=for-the-badge&color=1DA1F2&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/kagam1nonly?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=github&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kagam1nonly&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
 <p align="center">
