@@ -16,7 +16,7 @@
 
 ### 🚀 FEATURED PROJECTS
 
-**[Raven CRM (in Development)] **
+**Raven CRM (in Development)**
 Custom CRM platform for creator and agency management built with Next.js, Prisma, PostgreSQL, and AI-assisted workflows.
 
 **[GoCraftiv.com](https://gocraftiv.com)**
@@ -77,17 +77,14 @@ A streamlined productivity tool designed to manage complex workflows with ease.
 ### 📈 GITHUB STATS
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/kagam1nonly?label=Followers&style=for-the-badge&color=1DA1F2&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/kagam1nonly?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=github&logoColor=white" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=kagam1nonly&theme=dark&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=39d353" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kagam1nonly&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kagam1nonly&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
 </p>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kagam1nonly&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kagam1nonly&theme=green&hide_border=true&height=250" alt="Contribution Graph" />
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/kagam1nonly/kagam1nonly/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
