@@ -1,78 +1,85 @@
 <div align="center">
 
-# ⚡ JAMES PIASTRO
-### Software Engineer • AI Engineer • MVP Specialist
-[ jamespiastro.me ](https://jamespiastro.me)
+# ⚡ James Piastro
+
+### Full Stack Developer • AI-Assisted Engineer • SaaS Builder
+
+🌐 **Portfolio:** https://jamespiastro.me
+
+Building production-ready SaaS products, internal tools, and AI-powered applications using modern web technologies and AI-assisted development workflows.
 
 ---
 
-**"Bridging the gap between robust logic and high-conversion user experiences."**
+### 🚀 Featured Projects
 
-**Interests & Expertise:**
-`Java Data Structures & Algorithm` • `Full Stack Web Development` • `Game Development` • `Blockchain Web 3` • `AI Integration`
+#### Raven CRM *(In Development)*
 
----
+Custom CRM platform built with Next.js, Prisma, PostgreSQL, and AI-assisted development workflows.
 
-### 🚀 FEATURED PROJECTS
-**[GoCraftiv.com](https://gocraftiv.com)**
-*GoCraftiv leverages AI to generate tailored professional experience sections, helping users create standout, job ready resumes in minutes*
+#### GoCraftiv
 
-**[TaskFlow](https://taskflow-kanbanboard.vercel.app)**
-*A streamlined productivity tool designed to manage complex workflows with ease.*
+AI-powered resume platform that generates tailored professional experience sections for job seekers.
 
----
+#### TaskFlow
 
-### 🛠️ CORE TECH STACK
-<!-- Programming and Logic -->
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-005850?style=for-the-badge&logo=fastapi&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-
-<br/>
-
-### ☁️ INFRASTRUCTURE & CLOUD
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
-<br/>
-
-### 🤖 AI & WORKFLOW TOOLS
-<img src="https://img.shields.io/badge/Antigravity-FF0000?style=for-the-badge&logo=rocket&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-
-### 📈 GITHUB STATS
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kagam1nonly&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+Kanban productivity application designed to simplify workflow management and team organization.
 
 ---
 
-### 🤝 Let's Build Something
-I love turning ideas into functional, scalable products. I'm always open to discussing new projects.
+### 🛠 Tech Stack
 
-📬 **Contact me via:**  
-[Telegram: @kagam1nonly](https://t.me/kagam1nonly) • [jamespiastro20@gmail.com](mailto:jamespiastro20@gmail.com)
+**Frontend**
 
-<br/>
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Framer Motion
 
-![Snake Animation](https://raw.githubusercontent.com/kagam1nonly/kagam1nonly/output/github-contribution-grid-snake-dark.svg)
+**Backend**
 
-<br/>
+* Node.js
+* FastAPI
+* Prisma
 
-<p align="center" style="font-family: monospace; color: #DC2626; font-weight: bold;">
-  // Status: Currently Building Custom CRM 
-</p>
+**Databases**
+
+* PostgreSQL
+* MySQL
+* Redis
+* Supabase
+
+**DevOps & Deployment**
+
+* Docker
+* Vercel
+* Render
+* Git
+
+**AI Development**
+
+* Claude
+* Codex
+* Gemini
+* GitHub Copilot
+* Antigravity
+
+---
+
+### 🎯 Current Focus
+
+* Building Raven CRM
+* AI-assisted software development workflows
+* SaaS architecture and product engineering
+* Full-stack web applications
+
+---
+
+### 📫 Contact
+
+* Portfolio: https://jamespiastro.me
+* GitHub: https://github.com/kagam1nonly
+* Telegram: @kagam1nonly
+* Email: [jamespiastro20@gmail.com](mailto:jamespiastro20@gmail.com)
 
 </div>
