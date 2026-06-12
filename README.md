@@ -16,14 +16,17 @@
 
 ### 🚀 FEATURED PROJECTS
 
-**Raven CRM (in Development)**
-Custom CRM platform for creator and agency management built with Next.js, Prisma, PostgreSQL, and AI-assisted workflows.
+**Raven CRM**
+Custom CRM platform built for creators and agencies. Features creator management, chatter workflows, role-based access control, analytics, notes, scripts, notifications, and Chrome extension integration.
 
-**[GoCraftiv.com](https://gocraftiv.com)**
-GoCraftiv leverages AI to generate tailored professional experience sections, helping users create standout, job-ready resumes in minutes.
+**TaskFlow AI**
+An AI-assisted productivity platform that helps users organize projects, manage workflows, and break down complex goals into actionable tasks.
 
-**[TaskFlow](https://taskflow-kanbanboard.vercel.app)**
-A streamlined productivity tool designed to manage complex workflows with ease.
+**Huyuhoy Silogan**
+A full-stack food ordering platform developed for a local restaurant, featuring online ordering, menu management, order tracking, and an administrative dashboard.
+
+**HCDC CrossBlazers Cup**
+An intramurals management platform with event scheduling, score tabulation, leaderboards, reporting tools, and user authentication.
 
 ---
 
@@ -90,7 +93,7 @@ A streamlined productivity tool designed to manage complex workflows with ease.
 I enjoy building SaaS products, internal tools, CRM systems, and AI-assisted applications. Always open to collaborating on ambitious projects.
 
 📬 **Contact me via:**
-[Telegram: @kagam1nonly](https://t.me/kagam1nonly) • [jamespiastro20@gmail.com](mailto:jamespiastro20@gmail.com)
+[Telegram: @kagam1nonly](https://t.me/kagam1nonly) • [hello.kagamidev@gmail.com](mailto:hello.kagamidev@gmail.com)
 
 <p align="center" style="font-family: monospace; color: #DC2626; font-weight: bold;">
   // Status: Currently Building Custom CRM
